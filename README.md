@@ -7,7 +7,7 @@
 **See where share prices may be heading, in plain words.**
 A personal desktop app for Windows: live quotes, your watchlist, and price forecasts from Google's TimesFM model.
 
-[**Download Gecko 1.2.0**](https://github.com/pourabkarchaudhuri/gecko-releases/releases/latest) &nbsp;·&nbsp; Windows 10 / 11, 64-bit
+[**Download Gecko 1.2.1**](https://github.com/pourabkarchaudhuri/gecko-releases/releases/latest) &nbsp;·&nbsp; Windows 10 / 11, 64-bit
 
 </div>
 
@@ -48,7 +48,7 @@ A personal desktop app for Windows: live quotes, your watchlist, and price forec
 
 **You need:** Windows 10 or 11 (64-bit), about 3 GB of free disk space, and an internet connection for prices. A graphics card is optional.
 
-1. Open the [latest release](https://github.com/pourabkarchaudhuri/gecko-releases/releases/latest) and download **`Gecko-Setup-1.2.0.exe`**.
+1. Open the [latest release](https://github.com/pourabkarchaudhuri/gecko-releases/releases/latest) and download **`Gecko-Setup-1.2.1.exe`**.
 2. Run it and follow the steps. Gecko installs for your user only, so it does not ask for administrator rights.
 3. **Windows may warn you.** The installer is not code-signed yet, so Windows SmartScreen can show "Windows protected your PC". Choose **More info**, then **Run anyway**. Only do this for a file you downloaded from this page.
 4. Start **Gecko**. On the first launch it downloads its forecasting model (about 1.3 GB, checked and resumable). The start-up screen shows the progress. This happens once.
@@ -71,7 +71,7 @@ Windows **Settings → Apps → Gecko → Uninstall**. Before you do, you can sa
 
 ---
 
-## Good to know (version 1.2.0)
+## Good to know (version 1.2.1)
 - **US paper accounts and US holdings are not built yet.** US shows prices and your watchlist. Your US stocks at Groww sit in a separate US wallet that Groww does not let apps read, so Gecko shows no US holdings. The US switch for Auto Trade stays locked.
 - Forecasts are not better than "no change" yet, and Gecko says so.
 - The installer is unsigned (see step 3 above).
